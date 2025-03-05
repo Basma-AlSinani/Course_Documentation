@@ -1,0 +1,26 @@
+*1. Find the Largest Number in a List*
+1.larg
+2.compear larg X
+3.set new larg
+4.X+1
+
+
+--------------------------------------------------
+*2. Count the Number of Vowels in a String*"o,e,u,I,a"
+1.set count 0
+2.for each letter in string
+if letter 
+
+
+
+
+------------------------------------------------------
+3. Reverse a String
+karem -> input
+1.calaculet the number of car->y
+2.x=y
+3.هنا يكون مكتن مكون من خمس اشياء ونسميه z
+4.y-1 
+5. z+1
+6> y=0
+
